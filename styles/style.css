@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600&display=swap');
+
+*,*::after,*::before{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+:root{
+  --clr-strong cyan:#26BAA4;
+  --clr-light blue:#6173FF;
+  --clr-darkgrayish blue:#4C545D;
+  --clr-grayish blue:#9FABB2; 
+}
+
+html{
+  font-size: 18px;
+}
+body{
+  
+}
